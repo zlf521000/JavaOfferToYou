@@ -19,7 +19,7 @@
 有需要的朋友欢迎咨询：  
 微信：Luffy_521000  
 电话☎：15384110948（微信同号）  
-<img src="https://github.com/zlf521000/JavaOfferToYou/blob/master/image/wxcode.jpg" width="300" height="300" alt="添加微信">
+<img src="https://github.com/zlf521000/JavaOfferToYou/blob/master/image/wxcode.jpg" width="300" height="500" alt="添加微信">
  
 
 
