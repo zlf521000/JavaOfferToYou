@@ -20,6 +20,6 @@
 <img src="https://github.com/zlf521000/JavaOfferToYou/blob/master/image/wxcode.jpg" width="228" height="313" alt="添加微信">
 
  斩获Offer日志：
-[Java直达Offer](https://javatooffer.uzibird.cn/)
+[Java直达Offer](https://javatooffer.uzibird.cn/2024/11/03/OfferExample/)
 
 
